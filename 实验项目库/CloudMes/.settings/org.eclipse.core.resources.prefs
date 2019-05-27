@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/login.css=UTF-8
+encoding//WebContent/login.html=UTF-8
+encoding//WebContent/welcome1.jsp=UTF-8
+encoding//src/com/SayHello.java=gbk
+encoding//src/com/biz/UserBiz.java=gbk
+encoding//src/com/biz/impl/UserBizImpl.java=gbk
+encoding//src/com/dao/impl/BaseDao.java=gbk
+encoding//src/test.json=gbk

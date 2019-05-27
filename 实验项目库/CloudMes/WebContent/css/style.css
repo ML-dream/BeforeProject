@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* 你自己的样式 */
+
+.top{padding-top:5px;padding-left:50px;width:400px;height:25px}
+.mid-left{height:330px;width:450px;border:0px solid;margin-left:100px;margin-top:10px}
+.mid-middle{height:330px;width:400px;border:0px solid;margin-left:50px;margin-top:10px}
+.mid-right{height:330px;width:500px;border:0px solid;margin-left:10px;margin-top:10px}

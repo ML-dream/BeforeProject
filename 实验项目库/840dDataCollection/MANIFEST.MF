@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Data.DaDataCollection
+Class-Path: lib/ch.qos.logback.classic_1.0.0.jar lib/ch.qos.logback.core_1.0.0.jar lib/commons-logging-1.1.1.jar lib/log4j-1.2.13.jar lib/org.openscada.external.jcifs_1.2.25.201305291039.jar lib/org.openscada.jinterop.core_1.1.0.v20130529.jar lib/org.openscada.jinterop.deps_1.1.0.v20130529.jar lib/org.openscada.opc.dcom_1.1.0.v20130529.jar lib/org.openscada.opc.lib_1.1.0.v20130529.jar lib/slf4j.api_1.6.4.jar
+

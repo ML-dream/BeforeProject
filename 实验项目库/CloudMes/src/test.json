@@ -1,0 +1,21 @@
+ 
+  [
+    {
+      "name": "xxl",
+      "age": 20,
+      "gender": "男",
+      "work":"学生"
+    },
+    {
+      "name": "GH",
+      "age": 19,
+      "gender":"男",
+      "work":"教师"
+    },
+    {
+      "name": "ZZJ",
+      "age": 18,
+      "gender":"女",
+      "work":"程序员"
+    }
+  ]
